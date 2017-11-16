@@ -1,5 +1,5 @@
 name "My First CloudApp"
-rs_ca_ver 20131202
+rs_ca_ver 20161221
 short_description "This is my first CloudApp.  It will launch a single Linux Server"
 
 resource "my_first_server", type: "server" do
